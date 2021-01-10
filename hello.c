@@ -5,4 +5,4 @@ int main()				/* int is a command declaring the value of "main()" to be an intag
 {					/*first bracket. main loop commands will be contained within these two brackets*/
 	printf("hello world\n");	/*"ptintf() is a command that will return the value inside the parenthsis, "hello world." "n" is the count of the number of time 					this is repeated. */
 	return 0;	/*"return" is a command that tells the program to return the value of the function when the condition, "0," is met. ";" ends the loop*/
-}			/*closes brackets*/
+}	hello I am Sean and I am adding this line to Brendan's code 		/*closes brackets*/
